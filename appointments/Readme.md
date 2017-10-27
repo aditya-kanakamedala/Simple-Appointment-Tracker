@@ -21,10 +21,15 @@ templates - html template files are put in this folder.
 Database Schema
 
 The database consists of a single table appointments containing the following columns:
+
 Column Name    Column Type
+
 +++++++++++    ++++++++++++
+
    Date            date
+   
    Time            text
+   
 Description        text
 
 Running Instructions
